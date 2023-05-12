@@ -1,0 +1,5 @@
+# Disable directory browsing 
+Options -Indexes
+
+# Enable directory browsing 
+#Options +Indexes

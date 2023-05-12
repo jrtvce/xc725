@@ -1,6 +1,0 @@
-Procurar por https://yourpanel.xyz/
-
-Local do arquivo: /smali_classes2/com/nathnetwork/iptvpro/util/Config.php
-
-linha 55
-

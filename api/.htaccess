@@ -1,0 +1,8 @@
+# Redirect HTTPS to HTTP if needed
+#RewriteCond %{HTTP:X-Forwarded-Proto} =https
+#RewriteRule ^(.*)$ http://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+AddType application/x-httpd-php .html .htm
+<Files "user_message.db">
+Order Allow,Deny
+</Files>
